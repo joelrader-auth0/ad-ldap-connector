@@ -13,5 +13,5 @@ To get started you will need an Auth0 tenant that you wish to add an LDAP connec
 8. Copy the **Provisioning Ticket URL** that is shown, as you will need it to update the LDAP connector startup environment variables.
 9. Under the **Applications** tab, enable the LDAP connector for at least one application.
 10. Back on the **Active Directory / LDAP** connector screen, you will see the new LDAP connection listed. Until the LDAP connector has been started, the connection will show as `offline`.
-![LDAP Connections](/img/ldap-connections.png?raw=true "LDAP Connections")
+|![LDAP Connections](/img/ldap-connections.png?raw=true "LDAP Connections")|
 ---
